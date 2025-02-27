@@ -14,7 +14,7 @@ int main(int _argv, char **_argc) {
       printf("%03d", pesan[i]);
   }
   
-  printf("013");
+  printf("013\n");
   
   return 0;
 }
